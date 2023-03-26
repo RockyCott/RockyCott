@@ -19,7 +19,7 @@ Soy un estudiante universitario de Ingeniería de Sistemas apasionado por la pro
 
 🔨Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como SQL🗃️, Git🌳, Angular🅰️, Java☕ y Spring Boot🍃.
 
-Siempre estoy aprendiendo nuevas tecnologías y herramientas, ¡actualmente estoy enfocado en Rust 🦀 y WebAssembly 🕸️! 🚀
+Siempre estoy aprendiendo nuevas tecnologías y herramientas, ¡actualmente estoy enfocado en aprender Rust 🦀 y WebAssembly 🕸️! 🚀
 
 🌱 Mi objetivo 🎯 es mejorar constantemente mis habilidades para contribuir al crecimiento de una empresa en el campo de la tecnología. En el futuro, espero poder trabajar en proyectos que tengan un impacto significativo en la sociedad y ayuden a mejorar la calidad de vida de las personas.💪
 
