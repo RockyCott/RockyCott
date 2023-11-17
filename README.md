@@ -21,7 +21,7 @@ Soy un estudiante universitario de Ingeniería de Sistemas apasionado por la pro
 
 Siempre estoy aprendiendo nuevas tecnologías y herramientas, ¡actualmente estoy enfocado en aprender Rust 🦀 y WebAssembly 🕸️! 🚀
 
-🌱 Mi objetivo 🎯 es mejorar constantemente mis habilidades para contribuir al crecimiento de una empresa en el campo de la tecnología. En el futuro, espero poder trabajar en proyectos que tengan un impacto significativo en la sociedad y ayuden a mejorar la calidad de vida de las personas.💪
+🌱 Mi objetivo 🎯 es mejorar constantemente mis habilidades para contribuir al crecimiento del campo de la tecnología. En el futuro, espero poder trabajar en proyectos que tengan un impacto significativo en la sociedad y ayuden a mejorar la calidad de vida de las personas.💪
 
 También me interesa la colaboración en proyectos de código abierto y contribuir al desarrollo de tecnologías más accesibles y sostenibles. 🌿 
 
